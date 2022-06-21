@@ -1,4 +1,7 @@
-.gray {
+.button {
+  cursor: pointer;
+}
+.ash {
   background-color: #989aaa;
   border-bottom: 1px solid #989aaa;
   height: 4rem;
